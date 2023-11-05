@@ -1,0 +1,1 @@
+['cafe', 'để', 'trong', 'ly', 'rất', 'dễ_thương', 'tiếc', 'là', 'k', 'biết', 'quán', 'có', 'giảm', 'cho', 'e', 'card', 'foody', 'lúc', 'đến', 'quán', 'k', 'có', 'nhiều', 'loại', 'bánh', 'để', 'thử']

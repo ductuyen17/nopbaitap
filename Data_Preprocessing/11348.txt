@@ -1,0 +1,1 @@
+['giá_cả', 'ok', 'măng', 'khá', 'ngon', 'mỗi', 'cái', 'vệ_sinh', 'k', 'đc', 'ổn', 'đường_xá', 'bụi_bặm', 'mà', 'đồ_ăn', 'cứ', 'phơi', 'ra']

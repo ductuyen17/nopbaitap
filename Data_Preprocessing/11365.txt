@@ -1,0 +1,1 @@
+['đồ', 'uống', 'order', 'đi', 'bị', 'ít', 'hơn', 'với', 'uống', 'ở', 'đó', 'giống', 'như', 'bị', 'ăn_cắp', 'vậy', 'nhân_viên', 'thiếu', 'niềm_nở', 'never', 'give', 'fuck']

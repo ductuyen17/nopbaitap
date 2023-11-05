@@ -1,0 +1,1 @@
+['order', 'trước', 'ngày', 'ok', 'vậy', 'rùi', 'mà', 'tới', 'ngày', 'giao', 'nói', 'hết', 'đã', 'ok', 'đổi', 'combo', 'khác', 'vậy_mà', 'giao', 'hàng', 'nói', 'h', 'mà', 'giờ', 'h', 'chưa', 'thấy', 'j', 'hết', 'tiền', 'ship', 'k', 'vẫn', 'vẻ', 'mà']

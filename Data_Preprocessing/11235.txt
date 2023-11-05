@@ -1,0 +1,1 @@
+['quán', 'đông', 'kem', 'xôi', 'dừa', 'khá', 'ngon', 'còn', 'lại', 'rất', 'bình_thường', 'giá_cả', 'cũng', 'hơi', 'đắt', 'vs', 'quán', 'vỉa_hè']

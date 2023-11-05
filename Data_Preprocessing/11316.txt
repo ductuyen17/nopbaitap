@@ -1,0 +1,1 @@
+['ở', 'đây', 'có', 'món', 'bánh_cuốn', 'ngon', 'mà', 'mắc', 'quá', 'k', 'có', 'cuốn', 'nhân_viên', 'buổi', 'khuya', 'thấy', 'ghét', 'quá', 'vào', 'đúng', 'lúc', 'quá', 'nhiều', 'đứa', 'trẻ', 'trâu', 'toàn', 'nhỏ_tuổi', 'thích', 'chứng_tỏ']

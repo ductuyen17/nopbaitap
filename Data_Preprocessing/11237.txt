@@ -1,0 +1,1 @@
+['quán_koh', 'samui', 'là', 'quán', 'vỉa_hè', 'với', 'thực_đơn', 'là', 'đồ', 'thái', 'kem', 'thái', 'trà', 'sữa', 'thái', 'xanh', 'đỏ', 'chanh', 'ngon', 'và', 'rẻ', 'giá', 'chỉ', 'từ', 'k']

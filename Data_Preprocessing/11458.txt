@@ -1,0 +1,1 @@
+['lâu_lâu', 'ghe', 'la', 'lotteria', 'sa', 'ng', 'kha', 'vă', 'ng', 'nhân_viên', 'phu', 'c', 'vu', 'châ', 'hâ', 'u', 'như', 'la', 'không', 'phu', 'c', 'vu', 'kha', 'thâ', 'vo', 'ng', 'vơ', 'thai', 'đô', 'cu', 'nhân_viên', 'khi', 'mi', 'nh', 'order', 'thanh', 'toa', 'n']

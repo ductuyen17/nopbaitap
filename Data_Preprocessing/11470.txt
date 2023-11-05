@@ -1,0 +1,1 @@
+['có', 'ghé', 'qua', 'đây', 'lần', 'ở', 'đây', 'thái_độ', 'phục_vụ', 'kém', 'lắm', 'tuy_nhiên', 'chè', 'ở', 'đây', 'ăn', 'cũng', 'được', 'cũng', 'phân_vân', 'xem', 'có', 'nên', 'quay', 'lại', 'không', 'nữa']

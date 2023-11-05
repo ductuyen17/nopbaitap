@@ -1,0 +1,1 @@
+['gọi', 'ly', 'nâu', 'nóng', 'và', 'bánh', 'bông', 'lan', 'trứng', 'muối', 'nâu', 'nóng', 'vị', 'tệ', 'như', 'gói', 'cà_phê', 'hoà_tan', 'bông', 'lan', 'chứng', 'muối', 'chán', 'nhất', 'mình', 'từng', 'ăn', 'hjx', 'hjx', 'tổng', 'thiệt_hại', 'k']

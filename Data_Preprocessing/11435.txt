@@ -1,0 +1,1 @@
+['bánh_tráng', 'khá', 'ngon', 'nhưng', 'cho', 'quá', 'nhiều', 'nguyên_liệu', 'thập_cẩm', 'như', 'mực', 'khô', 'bò', 'khô', 'đâm_ra', 'ăn', 'thấy', 'hơi', 'lộn_xộn', 'mình', 'ăn', 'xuất', 'ko', 'ăn', 'hết', 'đc', 'vì', 'thấy', 'ngán']

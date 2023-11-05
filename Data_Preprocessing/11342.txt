@@ -1,0 +1,1 @@
+['quán', 'đẹp', 'nhân_viên', 'thì_có', 'phần', 'không', 'cảm_xúc', 'quán', 'khá', 'vắng', 'và', 'nóng', 'nước', 'uống', 'phải', 'nói', 'là', 'quá', 'tệ', 'cái', 'thì', 'qá', 'ngọt', 'cái', 'thì', 'qá', 'đắng', 'chỉ', 'có', 'bác', 'bảo_vệ', 'là', 'ok', 'nhất', 'thân_thiện', 'nhất']

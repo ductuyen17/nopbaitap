@@ -1,0 +1,1 @@
+['đi', 'ăn', 'với', 'gia_đình', 'thấy', 'quán', 'đẹp', 'nên', 'ghé', 'thửgiá_cả', 'hơi', 'cao', 'nhưng', 'đồ_ăn', 'lại', 'k', 'ngonthic', 'nhất', 'món', 'cơm', 'cá', 'mặn', 'còn', 'món', 'hàu', 'thì', 'quá', 'thất_vọng', 'dở', 'k', 'tưởng']

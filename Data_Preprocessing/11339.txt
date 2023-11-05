@@ -1,0 +1,1 @@
+['quán', 'này', 'không', 'hoạt_động', 'nữa', 'và', 'đã', 'nghỉ', 'thay', 'vào', 'đó', 'là', 'có', 'quán', 'hương_trà', 'và', 'kem', 'fanny']

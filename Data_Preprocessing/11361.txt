@@ -1,0 +1,1 @@
+['hồi', 'chiều', 'đi', 'green', 'run', 'về', 'ghé', 'vào', 'quán_ăn', 'thử', 'quán', 'làm', 'món', 'cũng', 'được', 'nhưng', 'giá', 'hơi', 'cao', 'deco', 'thì', 'bình_thường', 'túm', 'lại', 'là', 'giá', 'mắc', 'với', 'trang_trí', 'quán', 'với', 'chất_lượng', 'món']

@@ -1,0 +1,1 @@
+['đông_ba', 'đôg', 'nghẹt', 'người', 'đồ_ăn', 'khôg', 'ngon', 'nhưng', 'giá', 'lại', 'đắt', 'nhiều', 'quán', 'hơi', 'mất', 'vệ_sinh', 'thức_ăn', 'phong_phú', 'nhưng', 'quán', 'thì', 'lú_nhú', 'được', 'vài', 'người', 'expressionless_face']

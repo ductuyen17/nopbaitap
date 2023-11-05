@@ -1,0 +1,1 @@
+['thích', 'không_gian', 'của', 'quán', 'cafe', 'tạm', 'ổn', 'menu', 'hơi', 'ít', 'đồ_ăn', 'nghèo_nàn', 'có', 'gác', 'có', 'ban_công', 'thích_hợp', 'để', 'tự', 'kỉ', 'những', 'ngày', 'mưa']

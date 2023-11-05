@@ -1,0 +1,1 @@
+['c', 'chủ', 'nhiệt_tình', 'có_điều', 'phải', 'đợi', 'bánh', 'hơi', 'lâu', 'trong', 'khi', 'hôm', 'mình', 'đến', 'quán', 'khá', 'vắng', 'khách', 'bánh', 'không', 'ngon', 'như', 'mình', 'nghĩ']

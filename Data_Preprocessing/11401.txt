@@ -1,0 +1,1 @@
+['service', 'worst', 'waiter', 'waitress', 'messing', 'food', 'order', 'tables', 'food', 'taste', 'good', 'drinks', 'bad', 'totally', 'forgot', 'order', 'ice', 'coffee', 'ask', 'bills', 'cancel', 'drinks', 'start', 'made', 'ice', 'coffee', 'heck', 'want', 'cancel', 'told', 'complimentary', 'forget', 'make', 'end', 'still', 'paid', 'bills']

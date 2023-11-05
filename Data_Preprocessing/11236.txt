@@ -1,0 +1,1 @@
+['đồ_ăn', 'ko', 'ngon', 'đắt', 'với', 'chất_lượng', 'quán', 'bé', 'xíu', 'gửi', 'xe', 'mất', 'k', 'kem', 'xôi', 'k', 'mà', 'ăn', 'chán_phèo']

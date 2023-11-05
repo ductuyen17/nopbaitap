@@ -1,0 +1,1 @@
+['có_thể', 'mình', 'không', 'thích', 'ăn', 'ngọt', 'lắm', 'nên', 'không', 'thích', 'ăn', 'donuts', 'ở', 'đây', 'thật_sự', 'đối_với', 'mình', 'là', 'quá', 'ngọt', 'luônnhưng_mà', 'mấy', 'loại', 'bánh', 'nhỏ', 'nhỏ', 'tròn', 'tròn', 'có_nhân', 'sữa', 'dâu', 'thì', 'ngon', 'k', 'cục']

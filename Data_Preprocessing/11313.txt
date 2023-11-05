@@ -1,0 +1,1 @@
+['không_gian', 'khá', 'hẹp', 'lẩu', 'hải_sản', 'khá', 'ngon', 'phục_vụ', 'nhanh_nhẹn', 'giá_cả', 'hợp_lý']
